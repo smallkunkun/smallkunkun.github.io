@@ -1,6 +1,6 @@
 window.config = {
   server: 'https://api.github.com',
-  siteName: 'KunKun',
+  siteName: 'Kun Kun',
   navbar: [
     {
       label: '首页',
